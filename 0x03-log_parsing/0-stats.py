@@ -1,5 +1,6 @@
-
-g parsing
+#!/usr/bin/python3
+"""
+log parsing
 """
 
 import sys
